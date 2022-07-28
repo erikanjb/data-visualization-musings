@@ -1,2 +1,2 @@
 # matplotlib-musings
-data visualization, graphical plotting and my awesome commenting skills!!
+Data visualization, graphical plotting and my awesome commenting skills!!
